@@ -1,0 +1,22 @@
+@"
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Competitive programming helper files
+.cph/
+
+# Temporary files
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+"@ | Set-Content .gitignore
