@@ -1,0 +1,5 @@
+From now on, when you add new solutions, your normal workflow can simply be:
+
+git add .
+git commit -m "Add new competitive programming solutions"
+git push
