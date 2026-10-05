@@ -1,0 +1,13 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World!"<<"\n";
+    cout<<"Love my Urbijaan" <<endl;
+
+    cout<<"Hello World!\n";
+    cout<<"Love my Urbijaan";
+    return 0;
+}
